@@ -1,0 +1,18 @@
+input{
+    border: 0;
+    border-bottom: solid 3px rgb(183, 235, 115);
+    margin-right: 10px;
+}
+h1{
+    color: red;
+}
+#todo-list{
+    margin-top: 5%;
+    margin-left: 35%;
+}
+li{
+     list-style:none;
+}
+#list-item{
+    display:flex;
+}
